@@ -1,6 +1,5 @@
 /* src/index.css */
 
-@import tailwind/preflight
 @tailwind utilities;
 @tailwind base;
 @tailwind components;
